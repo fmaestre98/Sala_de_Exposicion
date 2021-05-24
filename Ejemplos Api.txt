@@ -1,0 +1,29 @@
+Rutas API
+
+Obtener todas las Salas
+http://localhost/salas_app/api/salas/todo
+
+
+Obtener todos los artefactos
+http://localhost/salas_app/api/artefactos/todo
+
+Obtener todos los artefactos que hallan sido actualizados despues de una fecha
+http://localhost/salas_app/api/artefactos/todo?fecha=2020-11-22
+
+
+Obtener todos los artefactos por sala
+http://localhost/salas_app/api/artefactos_x_sala/28
+
+
+Obtener artefacto por qr
+http://localhost/salas_app/api/qr/35_28
+
+
+Obtener artefacto por id
+http://localhost/salas_app/api/id/35
+
+
+Obtener todo salas con artefactos
+http://localhost/salas_app/api/v1/todo
+
+
